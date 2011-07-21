@@ -1,0 +1,7 @@
+defencoding utf-8
+startup_message off
+defencoding utf-8
+escape ^Tt
+hardstatus alwayslastline "[%02c] %`%-w%{=b bw}%n %t%{-}%+w"
+autodetach on
+defscrollback 10000
